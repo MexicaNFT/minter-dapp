@@ -1,3 +1,5 @@
+# NOTE: This repo is for reference only and is considered Legacy for MexicaNFT. It is therefore archived.
+
 # Minting DAPP
 
 ## Table of Contents
